@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Princeyselvakumar
-- 👀 I’m interested in Devaloping Apps
+- 👀 I’m interested in Developing Apps
 - 🌱 I’m currently learning Koltin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
